@@ -1,2 +1,2 @@
 # NFT_Test_Time
-テストです
+https://nandemotoken.github.io/NFT_Test_Time/index.html
